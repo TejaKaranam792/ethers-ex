@@ -80,7 +80,7 @@ contract Transfer {
 This project is **open-source** and available under the MIT License.
 
 ## 👤 Author
-- **Your Name**
+- **Teja Karanam**
 - [GitHub](https://github.com/your-tejaKaranam792)
 - [LinkedIn](https://linkedin.com/in/teja-karanam-60a14a267/)
 
